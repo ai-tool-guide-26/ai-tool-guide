@@ -13,5 +13,12 @@
 - メール: aitoolguide26@gmail.com / PW: `AiTool2026!Partner#7Qm`
 - メール確認済み。ネットワーク申請は未完了（実情報が必要）。
 
+## Instagram（作成済み）
+- アカウント: **@ai_tool_guide26**（表示名: AI Tool Guide）
+- メール: aitoolguide26@gmail.com
+- パスワード: `AiTool2026!IG#5Wn`
+- 自己紹介: 「AIツールの選び方・比較ガイド｜用途と無料枠から失敗しない選択を。日英で情報発信。サイトはプロフィールリンクから👇」
+- ウェブサイトURL: ブラウザ版では編集不可（Instagramアプリから設定する必要あり）
+
 ## 残り
-- Instagram / note / 東な：未作成（新Gmailの確認は完了済みのため作成可能）
+- note / 東な：未作成（新Gmailの確認は完了済みのため作成可能）
