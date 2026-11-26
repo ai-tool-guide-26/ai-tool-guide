@@ -241,7 +241,7 @@ a:hover::after { width: 100%; }
   margin: 0 0 32px;
   line-height: 1.7;
 }
-.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(235px, 1fr)); gap: 22px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(215px, 1fr)); gap: 20px; }
 
 /* Cards */
 .card {
