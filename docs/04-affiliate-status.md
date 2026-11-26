@@ -3,7 +3,13 @@
 ## 目的
 サイト（https://ai-tool-guide-26.github.io/ai-tool-guide/）から**実際に報酬が発生するリンク**を張る。
 
-## A8.net（メディアID: a18101728824 / 登録サイト: 大学生から始める不労所得）
+## A8.net（メディアID: a18101728824）
+### 登録サイト
+- 大学生から始める不労所得（主サイト）
+- @ririachannnn（Instagram）
+- 光回線・グッズ買取の比較ガイド
+- **AIツール比較ガイド**（2026-11-26 副サイト登録済み: https://ai-tool-guide-26.github.io/ai-tool-guide/）
+
 ### 提携済み・リンク取得済み
 - **Value AI Writer byGMO**（GMOデジロック／有料プラン購入40%）
   - 広告テキストリンク: `https://px.a8.net/svt/ejp?a8mat=4BGUDY+B4OQWI+1JUK+1HL85U`
