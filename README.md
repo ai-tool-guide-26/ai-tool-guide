@@ -9,6 +9,7 @@ A8.net の既存ノウハウ（`A8-afiliate/`）を横展開しつつ、**日本
 - 調査日：2026-11-26（二軸化：2026-11-26）
 - 公開URL：https://ai-tool-guide-26.github.io/ai-tool-guide/ ／ 英語版 https://ai-tool-guide-26.github.io/ai-tool-guide/en/
 - リポジトリ：https://github.com/ai-tool-guide-26/ai-tool-guide
+- GA4 測定ID：`G-WWNP5V26GM`（プロパティ名：AI Tool Guide）
 - 新Gmail：**aitoolguide26@gmail.com**（PW：`AiTool2026!Guide#9Kp`、表示名：AI Tool Guide）
 - 新GitHub：**ai-tool-guide-26**（`ai-tool-guide` は登録時に利用不可だったため `-26` を付与）
 - 運用拠点：**日本在住・日本から運用**（海外 residency を前提とする案件は除外）
