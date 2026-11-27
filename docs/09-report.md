@@ -75,19 +75,32 @@
 ## 6. SNSの運用状況
 
 ### X（@ai_tool_guide26）
-- 作成済み／**投稿4件**（初投稿＋2026-11-27に成約記事への導線投稿3件）
+- 作成済み／**投稿14件**（2026-11-27 時点）
 - 2026-11-27 投稿内容：
   1. AIライティング3種比較（Value AI Writer / Writesonic / Surfer）→ `articles/ai-writing-comparison.html`
   2. Value AI Writerのフリープラン → `articles/value-ai-writer.html`
   3. AIプレゼン比較（MiriCanvas / Gamma / ChatGPT）→ `articles/ai-presentation-comparison.html`
+  4. 21本の比較ガイド告知（PDF風カルーセル）
+  5. DeepL／GitHub Copilot／無料枠チェックの3投稿
+  6. タグ付き投稿（#AIツール #AIライティング）＋自リプライにサイトURL
+  7. **引用投稿2件**：
+     - 英語「AI writing sounding like a robot」→「AIっぽさの正体は根拠のない断定。一次情報確認が先」と日本語で反論
+     - 日本語「個人情報を横断するAI」→「できるかより使っていいかで選ぶ」とプライバシー視点を追加
+  8. 追加引用2件（2026-11-27 夜）：
+     - 「UNLIMITED videos for FREE」→ 商用利用条件の確認を呼びかけ
+     - 「AI detection」→ 誤検知と最終判断は人がする、という見解
 - 状態：graduated access 制限中（継続利用で解除）
-- 成果：エンゲージメント活動済み（いいね・フォロー）
+- 数値：投稿14件／**フォロワー0**（2026-11-27 時点）
+- **Automation設定済み**：毎日 09:00 JST に引用投稿1〜2件を自動実行（id: `aut_21c446646001yebkt3UJ2v7NQn`）
 
 ### Instagram（@ai_tool_guide26）
 - 作成済み／プロフィール画像設定済み
-- **初投稿済み（2026-11-27）**：https://www.instagram.com/p/DgOn3z1oKQX/
-- 投稿内容：AIライティング比較（1080x1080画像＋キャプション）。サイトURLはプロフィールリンクから誘導（キャプションに広告リンクなし）
-- ウェブサイトURL：`ai-tool-guide-26.github.io/ai-tool-guide/` がプロフィールに設定済み（ブラウザ版で確認）
+- **投稿2件**：
+  1. 初投稿：https://www.instagram.com/p/DgOn3z1oKQX/ （AIライティング比較）
+  2. タグ付き3枚カルーセル：https://www.instagram.com/p/DgPJWuMknYP/ （#AIツール #AI比較 #業務効率化 #生成AI #副業）
+- ウェブサイトURL：`ai-tool-guide-26.github.io/ai-tool-guide/` がプロフィールに設定済み
+- 数値：フォロワー0／コメント0（2026-11-27 時点）
+- ノウハウ：`.opencode/sns-growth-playbook.md` に X / Instagram のアルゴリズムと適用方針を保存済み
 
 ### note / はてな / 東な
 - 未作成（`sns/note-article.md` に投稿原稿あり）
