@@ -50,13 +50,19 @@
 ## 5. SNS
 
 ### X（@ai_tool_guide26）
-- 作成済み／初投稿（サイトURL告知）済み
+- 作成済み／**投稿4件**（初投稿＋2026-11-27に成約記事への導線投稿3件）
+- 2026-11-27 投稿内容：
+  1. AIライティング3種比較（Value AI Writer / Writesonic / Surfer）→ `articles/ai-writing-comparison.html`
+  2. Value AI Writerのフリープラン → `articles/value-ai-writer.html`
+  3. AIプレゼン比較（MiriCanvas / Gamma / ChatGPT）→ `articles/ai-presentation-comparison.html`
 - 状態：graduated access 制限中（継続利用で解除）
 - 成果：エンゲージメント活動済み（いいね・フォロー）
 
 ### Instagram（@ai_tool_guide26）
 - 作成済み／プロフィール画像設定済み
-- 投稿数：0（残作業：アプリからサイトURL設定＋初投稿）
+- **初投稿済み（2026-11-27）**：https://www.instagram.com/p/DgOn3z1oKQX/
+- 投稿内容：AIライティング比較（1080x1080画像＋キャプション）。サイトURLはプロフィールリンクから誘導（キャプションに広告リンクなし）
+- ウェブサイトURL：`ai-tool-guide-26.github.io/ai-tool-guide/` がプロフィールに設定済み（ブラウザ版で確認）
 
 ### note / はてな / 東な
 - 未作成（`sns/note-article.md` に投稿原稿あり）
@@ -65,10 +71,10 @@
 
 1. GSCでサイトマップ再送信（新記事6本を反映）
 2. Bing Webmaster Toolsに新サイトを追加
-3. MiriCanvasの提携審査結果を確認 → 通过后CTAをアフィリエイトリンクに差し替え
+3. MiriCanvasの提携審査結果を確認 → 審査が通ったらCTAをアフィリエイトリンクに差し替え予定
 4. PartnerStackネットワーク申請を完了 → ElevenLabs / Murf / Semrush へ申請
 5. noteに `sns/note-article.md` を投稿（被リンク獲得）
-6. Instagram（@ai_tool_guide26）に初投稿＋サイトURL設定
+6. Instagram（@ai_tool_guide26）の投稿を継続（初投稿・サイトURL設定は完了）
 
 ## 7. 注意点
 
