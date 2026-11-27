@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/</loc><lastmod>2026-11-26</lastmod><priority>1.0</priority></url>
-  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/ai-tool-guide.html</loc><lastmod>2026-11-26</lastmod><priority>0.9</priority></url>
-  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/miricanvas.html</loc><lastmod>2026-11-26</lastmod><priority>0.8</priority></url>
-  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/conoha-ai-canvas.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/value-ai-writer.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/</loc><lastmod>2026-11-27</lastmod><priority>1.0</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/ai-tool-guide.html</loc><lastmod>2026-11-27</lastmod><priority>0.9</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/miricanvas.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/ai-presentation-comparison.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/value-ai-writer.html</loc><lastmod>2026-11-27</lastmod><priority>0.9</priority></url>
   <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/ai-writing-comparison.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/conoha-ai-canvas.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/voice-ai-comparison.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/chatgpt-pricing.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/claude-pricing.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/gemini-pricing.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/perplexity-guide.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/notion-ai.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/canva-ai.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/deepl-translation.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/adobe-firefly.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/github-copilot.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/dmm-ai-camp.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/languise.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/yaku-translation.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/twomi.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/articles/moneyforward-ai.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://ai-tool-guide-26.github.io/ai-tool-guide/about.html</loc><lastmod>2026-11-26</lastmod><priority>0.3</priority></url>
 </urlset>
