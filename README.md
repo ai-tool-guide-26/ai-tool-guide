@@ -9,7 +9,7 @@ A8.net の既存ノウハウ（`A8-afiliate/`）を横展開しつつ、**日本
 - 調査日：2026-11-26（二軸化：2026-11-26）
 - 公開URL：https://ai-tool-guide-26.github.io/ai-tool-guide/ ／ 英語版 https://ai-tool-guide-26.github.io/ai-tool-guide/en/
 - リポジトリ：https://github.com/ai-tool-guide-26/ai-tool-guide
-- GA4 測定ID：`G-WWNP5V26GM`（プロパティ名：AI Tool Guide）
+- GA4 測定ID：`G-E02LVSJGWG`（プロパティ名：AI Tool Guide／2026-11-27 再作成）
 - 新Gmail：**aitoolguide26@gmail.com**（PW：`AiTool2026!Guide#9Kp`、表示名：AI Tool Guide）
 - 新GitHub：**ai-tool-guide-26**（`ai-tool-guide` は登録時に利用不可だったため `-26` を付与）
 - 運用拠点：**日本在住・日本から運用**（海外 residency を前提とする案件は除外）
@@ -38,7 +38,7 @@ A8.net の既存ノウハウ（`A8-afiliate/`）を横展開しつつ、**日本
 - 英語：`en/`／`en/articles/best-ai-tools.html`／`en/articles/elevenlabs-vs-murf.html`／`en/about.html`
 - SEO：canonical／hreflang／OGP／Twitter Card／JSON-LD（WebSite・Article・FAQPage）／sitemap×2／robots
 - GSC：新URLで所有権確認済み（HTMLメタタグ）／サイトマップ送信済み
-- GA4：`G-WWNP5V26GM`（全8ページにタグ埋め込み済み）
+- GA4：`G-E02LVSJGWG`（全13ページにタグ埋め込み済み／旧IDは使用不可）
 - リポジトリ移転：`Burattom/ai-tool-guide` → `ai-tool-guide-26/ai-tool-guide`（Import repository＋PATでpush／GitHub Pages有効化済み）
 - Bing：既存アカウントに旧サイトが選択されたままのため、新サイト追加は未完了
 - X／Instagram：新GmailのGoogle追加確認（QR／SMS）が未完了のため、アカウント作成は保留
