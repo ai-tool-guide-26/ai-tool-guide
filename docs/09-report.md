@@ -90,7 +90,10 @@
      - 「UNLIMITED videos for FREE」→ 商用利用条件の確認を呼びかけ
      - 「AI detection」→ 誤検知と最終判断は人がする、という見解
 - 状態：graduated access 制限中（継続利用で解除）
-- 数値：投稿14件／**フォロー中7人**／フォロワー0（2026-11-27 時点）
+- 数値：投稿**16件**／**フォロー中9人**／**フォロワー4人**（2026-11-28 時点。フォロワー増はユーザー主導のフォローバック）
+- 2026-11-28 定時投稿（automation）：
+  - ConoHa AI Canvasの紹介（月1,100円〜／WebUI無料10〜100時間／生成枚数上限なし／6.6円/分の注意）＋ `#AIツール #画像生成`
+  - 自リプライに `articles/conoha-ai-canvas.html` のURLを配置
 - フォローした関連アカウント：@ai_300／@hiro44_pino／@kkk_cun／@TOYOAKI83／@usutaku_channel／@kiyotan_ai／@AI_hukugyourabo（AI比較・AIライティング・副業AI界隈）
 - **Automation設定済み**：毎日 09:00 JST に引用投稿1〜2件を自動実行（id: `aut_21c446646001yebkt3UJ2v7NQn`）
 
