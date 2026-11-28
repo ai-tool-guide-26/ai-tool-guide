@@ -104,6 +104,9 @@
   2. タグ付き3枚カルーセル：https://www.instagram.com/p/DgPJWuMknYP/ （#AIツール #AI比較 #業務効率化 #生成AI #副業）
 - ウェブサイトURL：`ai-tool-guide-26.github.io/ai-tool-guide/` がプロフィールに設定済み
 - 数値：フォロワー0／コメント0（2026-11-27 時点）
+- **投稿3件目（2026-11-28 定時投稿）**：https://www.instagram.com/p/DgRTO5wofkj/
+  - ConoHa AI Canvasの料金教育画像（PILで1080x1080、公式スクリーンショット埋め込み）＋タグ5個（#AIツール #画像生成 #AI比較 #業務効率化 #生成AI）
+  - キャプションに「6.6円／分」の具体数字を記載
 - ノウハウ：`.opencode/sns-growth-playbook.md` に X / Instagram のアルゴリズムと適用方針を保存済み
 
 ### note / はてな / 東な
